@@ -15,7 +15,7 @@ The whole code is encapsulated in MatrixFlatteing class, which has the following
 5- Print1D : prints the 1d vector
 6- Run : an algorithm for calling other methods in MatrixFlatteing class for getting the desired task done.  
 
-##Testing:
+## Testing:
 
 Two test samples are provided in cmake-build-debug directory with the following names:
 input1.txt, input2.txt, output1.txt, output2.txt.
