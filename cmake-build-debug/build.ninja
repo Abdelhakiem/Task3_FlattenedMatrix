@@ -39,7 +39,7 @@ include CMakeFiles/rules.ninja
 #############################################
 # Logical path to working directory; prefix for absolute paths.
 
-cmake_ninja_workdir = C$:/Users/INTEL/Downloads/My_Git/MasterMicro/Task3/cmake-build-debug/
+cmake_ninja_workdir = C$:/Users/INTEL/Downloads/My_Git/MasterMicro/Task3_FlattenedMatrix/cmake-build-debug/
 # =============================================================================
 # Object build statements for EXECUTABLE target Task3
 
@@ -49,7 +49,7 @@ cmake_ninja_workdir = C$:/Users/INTEL/Downloads/My_Git/MasterMicro/Task3/cmake-b
 
 build cmake_object_order_depends_target_Task3: phony || CMakeFiles/Task3.dir
 
-build CMakeFiles/Task3.dir/main.cpp.obj: CXX_COMPILER__Task3_Debug C$:/Users/INTEL/Downloads/My_Git/MasterMicro/Task3/main.cpp || cmake_object_order_depends_target_Task3
+build CMakeFiles/Task3.dir/main.cpp.obj: CXX_COMPILER__Task3_Debug C$:/Users/INTEL/Downloads/My_Git/MasterMicro/Task3_FlattenedMatrix/main.cpp || cmake_object_order_depends_target_Task3
   DEP_FILE = CMakeFiles\Task3.dir\main.cpp.obj.d
   FLAGS = -g -std=gnu++14
   OBJECT_DIR = CMakeFiles\Task3.dir
@@ -81,7 +81,7 @@ build Task3.exe: CXX_EXECUTABLE_LINKER__Task3_Debug CMakeFiles/Task3.dir/main.cp
 # Utility command for edit_cache
 
 build CMakeFiles/edit_cache.util: CUSTOM_COMMAND
-  COMMAND = cmd.exe /C "cd /D C:\Users\INTEL\Downloads\My_Git\MasterMicro\Task3\cmake-build-debug && "P:\CLion 2022.1\bin\cmake\win\bin\cmake.exe" -E echo "No interactive CMake dialog available.""
+  COMMAND = cmd.exe /C "cd /D C:\Users\INTEL\Downloads\My_Git\MasterMicro\Task3_FlattenedMatrix\cmake-build-debug && "P:\CLion 2022.1\bin\cmake\win\bin\cmake.exe" -E echo "No interactive CMake dialog available.""
   DESC = No interactive CMake dialog available...
   restat = 1
 
@@ -92,7 +92,7 @@ build edit_cache: phony CMakeFiles/edit_cache.util
 # Utility command for rebuild_cache
 
 build CMakeFiles/rebuild_cache.util: CUSTOM_COMMAND
-  COMMAND = cmd.exe /C "cd /D C:\Users\INTEL\Downloads\My_Git\MasterMicro\Task3\cmake-build-debug && "P:\CLion 2022.1\bin\cmake\win\bin\cmake.exe" --regenerate-during-build -SC:\Users\INTEL\Downloads\My_Git\MasterMicro\Task3 -BC:\Users\INTEL\Downloads\My_Git\MasterMicro\Task3\cmake-build-debug"
+  COMMAND = cmd.exe /C "cd /D C:\Users\INTEL\Downloads\My_Git\MasterMicro\Task3_FlattenedMatrix\cmake-build-debug && "P:\CLion 2022.1\bin\cmake\win\bin\cmake.exe" --regenerate-during-build -SC:\Users\INTEL\Downloads\My_Git\MasterMicro\Task3_FlattenedMatrix -BC:\Users\INTEL\Downloads\My_Git\MasterMicro\Task3_FlattenedMatrix\cmake-build-debug"
   DESC = Running CMake to regenerate build system...
   pool = console
   restat = 1
@@ -110,7 +110,7 @@ build Task3: phony Task3.exe
 # =============================================================================
 
 #############################################
-# Folder: C:/Users/INTEL/Downloads/My_Git/MasterMicro/Task3/cmake-build-debug
+# Folder: C:/Users/INTEL/Downloads/My_Git/MasterMicro/Task3_FlattenedMatrix/cmake-build-debug
 
 build all: phony Task3.exe
 

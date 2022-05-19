@@ -49,8 +49,8 @@
 	"kind" : "codemodel",
 	"paths" : 
 	{
-		"build" : "C:/Users/INTEL/Downloads/My_Git/MasterMicro/Task3/cmake-build-debug",
-		"source" : "C:/Users/INTEL/Downloads/My_Git/MasterMicro/Task3"
+		"build" : "C:/Users/INTEL/Downloads/My_Git/MasterMicro/Task3_FlattenedMatrix/cmake-build-debug",
+		"source" : "C:/Users/INTEL/Downloads/My_Git/MasterMicro/Task3_FlattenedMatrix"
 	},
 	"version" : 
 	{

@@ -19,7 +19,7 @@ And four minor methods which are:
 
 3- ConvertIndex : converts the indexes of the 3d matrix to an equivelant index in the 1d vector.
 
-4- Print3D : prints the 3d matrix.
+4- ExpectedOut: prints the ExpectedOut.
 
 5- Print1D : prints the 1d vector
 

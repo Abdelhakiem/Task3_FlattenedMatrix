@@ -1,3 +1,3 @@
-C:/Users/INTEL/Downloads/My_Git/MasterMicro/Task3/cmake-build-debug/CMakeFiles/Task3.dir
-C:/Users/INTEL/Downloads/My_Git/MasterMicro/Task3/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/INTEL/Downloads/My_Git/MasterMicro/Task3/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/INTEL/Downloads/My_Git/MasterMicro/Task3_FlattenedMatrix/cmake-build-debug/CMakeFiles/Task3.dir
+C:/Users/INTEL/Downloads/My_Git/MasterMicro/Task3_FlattenedMatrix/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/INTEL/Downloads/My_Git/MasterMicro/Task3_FlattenedMatrix/cmake-build-debug/CMakeFiles/rebuild_cache.dir
